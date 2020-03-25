@@ -4,17 +4,20 @@ Authors : Cobi Nguyen
 This README explains code snippets Hello World and Right-Left
 programmed in Scratch.
 
-Scratch code can only be viewed on the Scratch website (https://scratch.mit.edu/)
+!!! INSTRUCTIONS TO RUN CODE !!!
+
+    Scratch code can only be viewed on the Scratch website (https://scratch.mit.edu/)
 or a Scratch desktop app. So in this Readme we will give you links to the exposed
 code of each project. Copy and paste the links in your browser URL if you don't wish
 to run .bat files, or have a system other than Windows.
 
-    You could also run our runCodeSnippets.bat that will open both of the 
+    You could also download and run our runCodeSnippets.bat that will open both of the 
 code snippets in two separte tabs in your default web browser. Once you are looking
 at the program from scratch.mit.edu, you can run it or look at the code by clicking
 the "See inside" button in the upper right of the window.
 This .bat and instructions serve as our Makefile.
 
+!!! FUNCTIONS !!!
 ==============================================================
 === Hello World ==============================================
 ==============================================================
@@ -52,11 +55,3 @@ The cat says what you should do to use the function, he will walk Right,
 
 ================================================================
 ================================================================
-!!! Click runCodeSnippets.bat to quickly open both functions !!!
-================================================================
-================================================================
-
-
-
-
-
