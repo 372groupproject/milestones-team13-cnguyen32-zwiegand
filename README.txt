@@ -3,6 +3,10 @@ Authors : Cobi Nguyen
 
 This README explains code snippets Hello World and Right-Left
 programmed in Scratch.
+    This README will also serve as our 'code' subfolder, we will add links and descriptions
+to the README as me progress through the project. We will give a code subfolder with
+the Scratch projects, if you want to download them and open them through a Scratch
+desktop app, but using the URL's would probably be easier.
 
 !!! INSTRUCTIONS TO RUN CODE !!!
 
