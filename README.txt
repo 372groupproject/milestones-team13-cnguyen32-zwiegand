@@ -7,8 +7,8 @@ programmed in Scratch.
 !!! INSTRUCTIONS TO RUN CODE !!!
 
     Scratch code can only be viewed on the Scratch website (https://scratch.mit.edu/)
-or a Scratch desktop app. So in this Readme we will give you links to the exposed
-code of each project. Copy and paste the links in your browser URL if you don't wish
+or a Scratch desktop app. So in this Readme we will give you links to each project. 
+Copy and paste the links in your browser URL if you don't wish
 to run .bat files, or have a system other than Windows.
 
     You could also download and run our runCodeSnippets.bat that will open both of the 
