@@ -1,0 +1,32 @@
+Book: Scratch Programming Playground
+	Sweigart, Al. Scratch Programming Playground : Learn to Program by Making Cool Games. 2016. Web. 
+This book can be found on UA library's website, gives some insight about the creation of scratch and 
+some useable reference material.
+
+Website that discusses the language in depth:
+
+https://scratch.mit.edu/developers
+
+Language reference manual that defines the language:
+
+https://en.scratch-wiki.info/wiki/Scratch_3.0'
+
+This reference is for the latest version of Scratch.
+
+
+Community forum for Scratch Q&A and just talking with other programmers:
+
+https://scratch.mit.edu/discuss/
+
+Scratch is used to educate beginning programmers to basic programming logic. 
+Scratch is not actually used in the industry to produce any real products but we did
+find one of the most viewed, if not the most viewed, Scratch project.
+Griffpatch's PaperMinecraft has over 32 million views as of 3/25/2020.
+
+Paper Minecraft is a game, as most Scratch programs are, that gives a fairly complete version
+of Minecraft as a 2D platformer.
+
+Here is the url to the project: https://scratch.mit.edu/projects/10128407/
+
+For the compiler/interpreter for Scratch, you can download a desktop app that 
+  works like the web browser, but generally Scratch programs a written and ran on : https://scratch.mit.edu/
