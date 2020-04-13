@@ -22,6 +22,55 @@ the "See inside" button in the upper right of the window.
 This .bat and instructions serve as our Makefile.
 
 !!! FUNCTIONS !!!
+Milestone 3
+==============================================================
+=== Sort List ================================================
+==============================================================
+
+URL : https://scratch.mit.edu/projects/384847425/
+
+This is the longer creative project of Milestone 3
+
+Focuses on use of strings and string comparison.
+
+To use the program build a list by clicking on the words, the list length
+has no limit. You can then sort the list by word length by clicking the Up
+or Down arrow which associate with ascending and descending order.
+
+==============================================================
+=== Numbers ==================================================
+==============================================================
+
+URL : https://scratch.mit.edu/projects/384783458/
+
+This program features different operations you can do on numbers.
+These are simple operations but all the basics are covered in this program.
+
+The program starts with the variable being set to 0.
+You can click on each of the operator buttons to modify the number.
++ and - modify the number by  + 1 or - 1.
+* and / modify the number by * 2 or / 2.
+
+Play around by clicking all the different operator buttons created.
+
+==============================================================
+=== Strings ==================================================
+==============================================================
+
+URL : https://scratch.mit.edu/projects/384792562/
+
+This program features strings and booleans in use.
+
+To use the program click on the picture, every two clicks and the cat 
+will say the combination of those words.
+
+Click the apple twice, cat says "AppleApple"
+
+Click Pen then Pineapple, cat says "PenPineapple"
+
+The cat only talks every two clicks, so if you click the apple once, 
+nothing will happen. This feature is implmented by the use of booleans.
+
 Milestone 2
 ==============================================================
 === 99 Bottles ===============================================
