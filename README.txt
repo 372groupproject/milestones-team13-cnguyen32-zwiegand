@@ -22,6 +22,91 @@ the "See inside" button in the upper right of the window.
 This .bat and instructions serve as our Makefile.
 
 !!! FUNCTIONS !!!
+Project Program
+==============================================================
+=== Snake Game ===============================================
+==============================================================
+
+URL : https://scratch.mit.edu/projects/386853145/
+
+This is our projects big program. We are attempting to make a 
+game of snake in scratch. 
+
+
+To use the game just click the flag and the ball, which is the "snake",
+will begin to move. Control the snake with your arrow keys and "eat" 
+the fruit. When you collide with the apple you will gain a point, and 
+the fruit will move somewhere else in the map. Do not run into walls
+because that will cause the game to end, the snake will stop moving.
+
+
+As of 4/20/2020 we have finished :
+- Snake controls
+- Fruit behavior (collision, repositioning, and point accumulation)
+- Death by Walls (death when snake collides with wall).
+
+We still wish to implement:
+- A simple start menu
+- Actually turn the snake into a snake.
+	Right now the "snake" is just a ball, and does not grow as it eats.
+	The trickiest part for the game will be to extend the snake, and have
+	its extended segments properly follow the leader.
+	We will also need to implment death by running into another segment.
+- Simple gameover message displaying score and option to restart game.
+
+Milestone 4
+==============================================================
+=== Add Sub Calculator =======================================
+==============================================================
+
+URL : https://scratch.mit.edu/projects/386806130/
+
+This program is the more complex program for milestone 4.
+
+This program is simple add or subtract calculator but the user
+input is more complex than the Numbers program from milestone 3.
+
+To use this program you :
+ - click a number to set variable 'x'
+ - click a number to set variable 'y'
+   (you can continue to click numbers, the program will assign
+   that number to x or y, alternating, starting on x.)
+ - click the plus or minus (this sets the operation to add or subtract)
+ - click the equal-sign to display your result
+
+The variables are not erased after clicking the equal sign, so try adding
+get a result, then click the minus, and get that result too without having
+to reenter the x an y values.
+==============================================================
+=== Broadcast Example ========================================
+==============================================================
+
+URL : https://scratch.mit.edu/projects/386804360/
+
+This small program shows how using broadcasts as subroutines,
+allows the developer to call blocks of code across multiple sprites.
+
+This program shows three different sprites taking turns talking, but
+broadcasts could be use to have one sprite broadcast a message and two
+other sprites act simultaneously on that message.
+
+To use the program just click on the flag like always.
+
+==============================================================
+=== Block Example ============================================
+==============================================================
+
+URL : https://scratch.mit.edu/projects/386801587/
+
+This small program shows the most basic use of a custom code block.
+The developer can put their own code under a custom code
+ block defnition, and then call that block elsewhere within
+ the local sprite. This is exactly like function in any other
+ popular language.
+ 
+Use is as simple as clicking the green flag once you've opened
+the program.
+
 Milestone 3
 ==============================================================
 === Sort List ================================================
