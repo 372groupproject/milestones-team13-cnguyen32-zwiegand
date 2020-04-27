@@ -32,26 +32,23 @@ This is our projects big program. We are attempting to make a
 game of snake in scratch. 
 
 
-To use the game just click the flag and the ball, which is the "snake",
-will begin to move. Control the snake with your arrow keys and "eat" 
-the fruit. When you collide with the apple you will gain a point, and 
-the fruit will move somewhere else in the map. Do not run into walls
-because that will cause the game to end, the snake will stop moving.
+To use the game just click the flag and you whould be presented with the Start Menu.
 
+Clicking the start button will take you to the game.
 
-As of 4/20/2020 we have finished :
-- Snake controls
-- Fruit behavior (collision, repositioning, and point accumulation)
-- Death by Walls (death when snake collides with wall).
+Press any arrow key and the snake will begin to move.
 
-We still wish to implement:
-- A simple start menu
-- Actually turn the snake into a snake.
-	Right now the "snake" is just a ball, and does not grow as it eats.
-	The trickiest part for the game will be to extend the snake, and have
-	its extended segments properly follow the leader.
-	We will also need to implment death by running into another segment.
-- Simple gameover message displaying score and option to restart game.
+As you eat fruit the snake will grow and your score will go up.
+Watch out! As your score increases, so does the number of bombs 
+on the map.
+
+The game ends from you hitting the walls or a bomb.
+
+Known Features??
+We have all the bombs respawn at random locations everytime you get a point.
+This makes the game more interesting, but there is a chance that a bomb will spawn
+on top of the snake. You can crawl over yourself unlik normal snake games, so a 
+strategy to try is consolidate your snake into a smaller area as it gets bigger.
 
 Milestone 4
 ==============================================================
