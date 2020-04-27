@@ -50,6 +50,23 @@ This makes the game more interesting, but there is a chance that a bomb will spa
 on top of the snake. You can crawl over yourself unlik normal snake games, so a 
 strategy to try is consolidate your snake into a smaller area as it gets bigger.
 
+Milestone 5
+==============================================================
+=== Factorial Cat ============================================
+==============================================================
+
+URL: https://scratch.mit.edu/projects/389526271
+
+This program uses recursion and user text input, something
+standard in other languages but unsused by us so far in our code
+snippets.
+
+Simple to use, type in an integer and the cat will
+respond with the factorial of that integer.
+
+If you type in bad input, the result will be bad obviously but
+the program will not crash.
+
 Milestone 4
 ==============================================================
 === Add Sub Calculator =======================================
