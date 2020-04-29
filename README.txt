@@ -52,6 +52,22 @@ strategy to try is consolidate your snake into a smaller area as it gets bigger.
 
 Milestone 5
 ==============================================================
+=== Text to Speech ===========================================
+==============================================================
+
+URL : https://scratch.mit.edu/projects/389611220
+
+This program uses the scratch's feature for text input and
+lets the user try out Scratch text to speech.
+
+The program runs by itself for a few seconds while the intro message 
+is playing, but then the user has full control
+
+SOUND ON!!!
+
+Also some bad words will not be outputted.
+
+==============================================================
 === Factorial Cat ============================================
 ==============================================================
 
